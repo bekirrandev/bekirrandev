@@ -2,7 +2,7 @@
 🎓Sou engenheiro de computação em formação pela Unicamp (Universidade Estadual de Campinas) e estou no 8° semestre. A expectativa é de conclusão da graduação em 2025
 👨‍💻Atualmente quero seguir carreira como desenvolvedor de software 
 
-## Segue abaixo minhas principais redes sociais (use dark mode para encontra-lás):
+### Segue abaixo minhas principais redes sociais (use dark mode para encontra-lás):
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/wesley.soaresferreira.5/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_._wel_._/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wesleysferreira/)
 
