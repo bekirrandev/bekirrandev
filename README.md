@@ -1,4 +1,4 @@
-## Olá, sou Wesley Soares Ferreira ༼ つ ◕_◕ ༽つ
+# Olá, sou Wesley Soares Ferreira ༼ つ ◕_◕ ༽つ
 🎓Sou engenheiro de computação em formação pela Unicamp (Universidade Estadual de Campinas) e estou no 8° semestre. A expectativa é de conclusão da graduação em 2025
 👨‍💻Atualmente quero seguir carreira como desenvolvedor de software 
 
